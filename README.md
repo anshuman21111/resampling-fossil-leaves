@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/425306566.svg)](https://zenodo.org/badge/latestdoi/425306566)
+
 # Sampling bias and the robustness of ecological metrics for fossil plant-damage-type association networks #
 **Team members:** Anshuman Swain<sup>1,2 </sup>, Lauren E. Azevedo-Schmidt<sup>3 </sup>, S. Augusta Maccracken<sup>2,4 </sup>, Ellen D. Currano<sup>2,5 </sup>, Jennifer Dunne<sup>6 </sup>, Conrad C. Labandeira<sup>2,7,8 </sup> and William F. Fagan<sup>1</sup>
 
